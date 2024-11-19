@@ -9,3 +9,9 @@ The Desktop app to support Gremsy's payload
 - Record video payload.
 - Captrue image payload.
 - Control move gimbal tilt,pan.
+# Support Ubuntu
+- Requirement
+  + Install GStreamer
+  + Install OpenCV
+- $ sudo chmod +x Payload-Assistant-Desktop
+- $ ./Payload-Assistant-Desktop
