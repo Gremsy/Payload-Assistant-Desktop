@@ -14,4 +14,4 @@ The Desktop app to support Gremsy's payload
   + Install GStreamer
   + Install OpenCV
 - $ sudo chmod +x Payload-Assistant-Desktop
-- $ ./Payload-Assistant-Desktop
+- Double click Payload-Assistant-Desktop
